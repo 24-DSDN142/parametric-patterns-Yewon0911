@@ -1,4 +1,8 @@
 //your parameter variables go here!
+function drawCat(){
+  ellipse(100,100,50);
+}
+
 let rect_width  = 20;
 let rect_height = 20;
 
