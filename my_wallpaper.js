@@ -170,6 +170,7 @@ function drawSoso(){
   ellipse(150, 70, 50);
   drawEye();
   drawMouth1();
+  
 }
 
 function drawShout(){
